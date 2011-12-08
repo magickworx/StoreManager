@@ -1,0 +1,10 @@
+MWXStoreManager is the simple and easy class to access StoreKit APIs.
+
+Read the essential example source codes (ExampleStoreViewController.{h,m})
+if you would like to use this class.
+
+
+How to use.
+1. Add `StoreKit.framework` to your target
+2. Add `MWXStoreManager.h` and `MWXStoreManager.m` to your project.
+
